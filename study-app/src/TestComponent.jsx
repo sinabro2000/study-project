@@ -1,6 +1,5 @@
 function TestComponent({ change, test }) {
     // props란 부모가 자식에게 넘겨주는 값
-
     // function 함수명({부모가 넘겨주는 프롭스명})
 
     const TestFunction = () => {
